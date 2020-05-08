@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a81a772-c818-4112-927b-4e281f1d4631" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YB068wYgQJPEjG3CeicUaMpTh3" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ВВ" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.SimpleGUI">
+    <configuration name="Logggin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiments.Logggin" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Experiments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegexDemo" />
+      <module name="untitled" />
+      <option name="PROGRAM_PARAMETERS" value="[^csw] cave" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursiom.Sample" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursiom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiments.SimpleGUI" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Experiments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegexDemo" />
+      <module name="untitled" />
+      <option name="PROGRAM_PARAMETERS" value="[csw] cave" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ololo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiments.ololo" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Experiments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Logggin" />
+      <item itemvalue="Application.RegexDemo" />
+      <item itemvalue="Application.Sample" />
+      <item itemvalue="Application.SimpleGUI" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ololo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleGUI" />
+        <item itemvalue="Application.Logggin" />
+        <item itemvalue="Application.ololo" />
+        <item itemvalue="Application.Sample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a81a772-c818-4112-927b-4e281f1d4631" name="Default Changelist" comment="" />
+      <created>1582400505025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582400505025</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="307" y="66" key="#HTTP_Proxy" timestamp="1586636054755">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state x="307" y="66" key="#HTTP_Proxy/51.24.1315.744@51.24.1315.744" timestamp="1586636054755" />
+    <state x="172" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582445732837">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state x="172" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/51.24.1315.744@51.24.1315.744" timestamp="1582445732837" />
+    <state x="495" y="154" key="FileChooserDialogImpl" timestamp="1586811620451">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state x="495" y="154" key="FileChooserDialogImpl/51.24.1315.744@51.24.1315.744" timestamp="1586811620451" />
+    <state width="1265" height="192" key="GridCell.Tab.0.bottom" timestamp="1586788302539">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state width="1265" height="192" key="GridCell.Tab.0.bottom/51.24.1315.744@51.24.1315.744" timestamp="1586788302539" />
+    <state width="1265" height="192" key="GridCell.Tab.0.center" timestamp="1586788302535">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state width="1265" height="192" key="GridCell.Tab.0.center/51.24.1315.744@51.24.1315.744" timestamp="1586788302535" />
+    <state width="1265" height="192" key="GridCell.Tab.0.left" timestamp="1586788302533">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state width="1265" height="192" key="GridCell.Tab.0.left/51.24.1315.744@51.24.1315.744" timestamp="1586788302533" />
+    <state width="1265" height="192" key="GridCell.Tab.0.right" timestamp="1586788302539">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state width="1265" height="192" key="GridCell.Tab.0.right/51.24.1315.744@51.24.1315.744" timestamp="1586788302539" />
+    <state x="195" y="24" key="SettingsEditor" timestamp="1586636955879">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state x="195" y="24" key="SettingsEditor/51.24.1315.744@51.24.1315.744" timestamp="1586636955879" />
+    <state x="355" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586789148617">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state x="355" y="224" key="com.intellij.ide.util.TipDialog/51.24.1315.744@51.24.1315.744" timestamp="1586789148617" />
+    <state x="354" y="289" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586636201339">
+      <screen x="51" y="24" width="1315" height="744" />
+    </state>
+    <state x="354" y="289" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/51.24.1315.744@51.24.1315.744" timestamp="1586636201339" />
+  </component>
+</project>
